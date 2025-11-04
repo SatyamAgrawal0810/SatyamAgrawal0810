@@ -27,7 +27,7 @@
 ---
 
 ### 🧰 Tech Stack  
-**Languages:** Python · Dart · C++ , Nextjs
+**Languages:** Python · Dart · C++ , Nextjs  
 **Frameworks:** Flutter · FastAPI · LangChain · TensorFlow  
 **Tools:** Firebase · PostgreSQL · Git · GCP · AWS  
 
